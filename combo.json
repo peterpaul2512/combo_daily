@@ -8,8 +8,8 @@
         },
         {
             "name": "bums",
-            "combo": [103, 210, 304],
-            "hasUpdate": false
+            "combo": [107,206,305],
+            "hasUpdate": true
         }
     ]
 }
