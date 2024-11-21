@@ -4,12 +4,12 @@
         {
             "name": "tomarket",
             "combo": [4,2,11],
-            "hasUpdate": true
+            "hasUpdate": false
         },
         {
             "name": "bums",
             "combo": [114,214,306],
-            "hasUpdate": true
+            "hasUpdate": false
         }
     ]
 }
