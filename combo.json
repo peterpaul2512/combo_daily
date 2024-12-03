@@ -3,8 +3,8 @@
     "data": [
         {
             "name": "tomarket",
-            "combo": [8,9,4],
-            "hasUpdate": false
+            "combo": [11,8,2],
+            "hasUpdate": true
         },
         {
             "name": "bums",
