@@ -1,14 +1,14 @@
 {
-    "date": "09/12/2024",
+    "date": "10/12/2024",
     "data": [
         {
             "name": "tomarket",
-            "combo": [6,1,9],
+            "combo": [5,4,2],
             "hasUpdate": true
         },
         {
             "name": "bums",
-            "combo": [106,206,303],
+            "combo": [119,206,318],
             "hasUpdate": true
         }
     ]
